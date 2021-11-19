@@ -8,16 +8,17 @@ This repository is my submission for the Programming for Data Analysis module (2
 
 ## Assignment Overview
 
-Problem statement
+**Problem statement**<br>
+
 The following assignment concerns the numpy.random package in Python. You are
 required to create a Jupyter notebook explaining the use of the package, including
 detailed explanations of at least five of the distributions provided for in the package.
 There are four distinct tasks to be carried out in your Jupyter notebook.
 
-1. Explain the overall purpose of the package.
-2. Explain the use of the “Simple random data” and “Permutations” functions.
-3. Explain the use and purpose of at least five “Distributions” functions.
-4. Explain the use of seeds in generating pseudorandom numbers.
+1. **Explain the overall purpose of the package.**
+2. **Explain the use of the “Simple random data” and “Permutations” functions.**
+3. **Explain the use and purpose of at least five “Distributions” functions.**
+4. **Explain the use of seeds in generating pseudorandom numbers.**
 
 ***
 
@@ -41,10 +42,10 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 ## About This Project
 
-The latest version of NumPy at the time of writing was V1.21 and this is what was used exclusively in this project. The full documentation for NumPy V1.21 can be found here: [NumPy Documentation](https://nbviewer.org/github/Sam-Tracey/numpy-random/blob/main/numpy-random.ipynb.)
+The latest version of NumPy at the time of writing was V1.21 and this is what was used exclusively in this project. The full documentation for NumPy V1.21 can be found here: [NumPy Documentation](https://numpy.org/doc/stable/)
 
 In the first section of the notebook I give a brief overview of NumPy and the <code>numpy.random</code> package.
-The next section gives an overview (in my own words) of the following functions with graphical representations using Matplotlib.pyplot and Seaborn:
+The next section gives an overview (in my own words) of the following functions with graphical representations using matplotlib.pyplot and seaborn:
 
 - <code>numpy.random.rand</code>
 - <code>numpy.random.randn</code>
@@ -54,12 +55,12 @@ The next section gives an overview (in my own words) of the following functions 
 - <code>numpy.random.bytes</code>
 
 
-The next sextion discusses two permutation functions:
+The next section discusses two permutation functions:
 
 - <code>numpy.random.shuffle</code>
 - <code>numpy.random.permutation</code>
 
-In the distribution sections I give overviews of five different numpy distributions with practical examples where possible. Again, there are charts composed in matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
+In the distribution section I give overviews of five different numpy distributions with practical examples where possible. Again, there are charts composed in matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
 
 - <code>numpy.random.normal</code>
 - <code>numpy.random.exponential</code>
