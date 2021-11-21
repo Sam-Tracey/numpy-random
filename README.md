@@ -60,7 +60,7 @@ The next section discusses two permutation functions:
 - <code>numpy.random.shuffle</code>
 - <code>numpy.random.permutation</code>
 
-In the distribution section I give overviews of five different numpy distributions with practical examples where possible. Again, there are charts created using matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
+In the distribution section I give overviews of five different NumPy distributions with practical examples where possible. Again, there are charts created using matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
 
 - <code>numpy.random.normal</code>
 - <code>numpy.random.exponential</code>
