@@ -1,4 +1,4 @@
-# Overview of Numpy Random package. Sam Tracey
+# Overview of Numpy Random package. Sam Tracey (Student ID: G00398245)
 
 ***
 
@@ -8,7 +8,7 @@ This repository is my submission for the Programming for Data Analysis module (2
 
 ## Assignment Overview
 
-**Problem statement**<br>
+**Problem Statement**<br>
 
 The following assignment concerns the numpy.random package in Python. You are
 required to create a Jupyter notebook explaining the use of the package, including
@@ -60,7 +60,7 @@ The next section discusses two permutation functions:
 - <code>numpy.random.shuffle</code>
 - <code>numpy.random.permutation</code>
 
-In the distribution section I give overviews of five different numpy distributions with practical examples where possible. Again, there are charts composed in matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
+In the distribution section I give overviews of five different numpy distributions with practical examples where possible. Again, there are charts created using matplotlib.pyplot and seaborn to visualise the key aspects and differences in the following distributions:
 
 - <code>numpy.random.normal</code>
 - <code>numpy.random.exponential</code>
@@ -75,7 +75,7 @@ The final section details the use of seeds in generating pseudo-random numbers.
 ***
 ## References
 
-Throughout this assignment I carried out extensive research involving work from various institutions and individuals who are highly regarded in their field. Following is a list of references:
+Throughout this assignment I carried out extensive research involving work from various institutions and individuals who are highly regarded in their field. Below is a list of references:
 
 [1] Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). Available at:https://doi.org/10.1038/s41586-020-2649-2<br>
     accessed 24th October 2021<br>
